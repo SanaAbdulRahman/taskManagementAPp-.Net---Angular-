@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow AI",
+  "description": "A smart, responsive task management dashboard featuring Kanban visualization and Gemini-powered task breakdown assistant.",
+  "requestFramePermissions": []
+}
